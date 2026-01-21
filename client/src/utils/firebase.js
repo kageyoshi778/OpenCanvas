@@ -8,7 +8,6 @@ import { getDatabase, ref, onValue, set } from 'firebase/database';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDPVUv6tp1PInYATgwoP1uPBvHRGalfhz8",
   authDomain: "whiteboard-9ce8f.firebaseapp.com",
   databaseURL: "https://whiteboard-9ce8f-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "whiteboard-9ce8f",
